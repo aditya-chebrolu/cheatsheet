@@ -1,1 +1,5 @@
 # cheatsheet
+
+```
+consoele.log("lesgo!")
+```
