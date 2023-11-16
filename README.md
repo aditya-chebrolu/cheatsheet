@@ -1,14 +1,13 @@
 # cheatsheet
 
-* [CLI](#CLI)
+* [CLI](#cli)
 
 ```
 consoele.log("lesgo!")
 ```
 
 
-##CLI
-
+## CLI
 To list out env variables
 ```
 env
