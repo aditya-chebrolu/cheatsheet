@@ -7,7 +7,7 @@ consoele.log("lesgo!")
 ```
 
 
-#```CLI```
+#CLI
 
 To list out env variables
 ```
