@@ -2,7 +2,7 @@
 
 * [CLI](#cli)
 * [SECTION 2](#section-2)
-* [CLI](#section-3)
+* [SECTION 3](#section-3)
 
 ```
 consoele.log("lesgo!")
