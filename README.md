@@ -1,7 +1,7 @@
 # cheatsheet
 
 * [CLI](#cli)
-* [SECTION 2](#section-2)
+* [CSS](#css)
 * [SECTION 3](#section-3)
 
 ```
@@ -10,18 +10,18 @@ consoele.log("lesgo!")
 
 
 ## CLI
-To list out env variables
+Remove type="number"the arrow at the end
 ```
-env
-```
-```
-printenv
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+     -webkit-appearance: none;
+  }
 ```
 
-## SECTION 2
+## CSS
 To list out env variables
 ```
-env
+
 ```
 ```
 printenv
