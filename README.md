@@ -14,3 +14,10 @@ input::-webkit-inner-spin-button {
    -webkit-appearance: none;
 }
 ```
+Line clamp
+```
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+  overflow: hidden;
+```
