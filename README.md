@@ -7,6 +7,7 @@
 ## DEVTOOLS
 
 ```$$('div')``` - querySelectorAll
+
 ```$('div')``` - querySelector
 
 ## CSS
