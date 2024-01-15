@@ -4,7 +4,10 @@
 * [CSS](#css)
 
 
-## CLI
+## DEVTOOLS
+
+```$$('div')``` - querySelectorAll
+```$('div')``` - querySelector
 
 ## CSS
 Remove type="number"the arrow at the end
