@@ -1,6 +1,6 @@
 # cheatsheet
 
-* [CLI](#cli)
+* [DEVTOOLS](#devtools)
 * [CSS](#css)
 
 
@@ -9,6 +9,8 @@
 ```$$('div')``` - querySelectorAll
 
 ```$('div')``` - querySelector
+
+```$_``` - Result of last operation
 
 ## CSS
 Remove type="number"the arrow at the end
