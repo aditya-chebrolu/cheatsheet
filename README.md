@@ -13,6 +13,13 @@
 ```$_``` - Result of last operation
 
 ## CSS
+No Scroll bar
+```
+::-webkit-scrollbar {
+    display: none;
+}
+```
+
 Remove type="number"the arrow at the end
 ```
 input::-webkit-outer-spin-button,
