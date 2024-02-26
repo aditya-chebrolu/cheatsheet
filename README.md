@@ -54,4 +54,9 @@ Transition to heigh auto
 }
 ```
 
+Note:
+- apply overflow to flex-item might shrink it.
 
+  fix: `flex-shrink:0`
+
+ 
