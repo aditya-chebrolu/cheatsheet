@@ -2,6 +2,7 @@
 
 * [DEVTOOLS](#devtools)
 * [CSS](#css)
+* [BASH](#bash)
 
 
 ## DEVTOOLS
@@ -59,4 +60,39 @@ Note:
 
   fix: `flex-shrink:0`
 
+ ## BASH
+ Set an alias
  
+```
+alias key='value'
+```
+list of currently set env. variables
+```
+printenv
+```
+```
+env
+```
+Get the value of the variable
+```
+$<variable_name>
+```
+Set temp. env. variable
+```
+export <var>=<value>
+```
+Set permanent env. variable
+```
+nano ~/.zshrc
+```
+```
+export <var>=<value>
+```
+Unset env. variable
+```
+unset <key>
+```
+Location of a package
+```
+which <package_name>
+```
