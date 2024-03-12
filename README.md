@@ -62,37 +62,11 @@ Note:
 
  ## BASH
  Set an alias
- 
 ```
 alias key='value'
-```
-list of currently set env. variables
-```
-printenv
-```
-```
-env
-```
-Get the value of the variable
-```
-$<variable_name>
-```
-Set temp. env. variable
-```
-export PATH=/Users/test/test_folder:$PATH
-```
-Set permanent env. variable
-```
-nano ~/.zshrc
-```
-```
-export <var>=<value>
-```
-Unset env. variable
-```
-unset <key>
 ```
 Location of a package
 ```
 which <package_name>
 ```
+[set | unset variables](https://phoenixnap.com/kb/set-environment-variable-mac)
