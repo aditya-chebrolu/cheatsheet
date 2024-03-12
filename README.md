@@ -79,7 +79,7 @@ $<variable_name>
 ```
 Set temp. env. variable
 ```
-export <var>=<value>
+export PATH=/Users/test/test_folder:$PATH
 ```
 Set permanent env. variable
 ```
