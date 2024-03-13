@@ -73,13 +73,3 @@ Note:
     
 3. **[set | unset variables](https://phoenixnap.com/kb/set-environment-variable-mac)**
 
-## Examples of `grep` Command Usage
-
-1. **`-i` (ignore case)**:
-   
-   Let's say we have a file named `example.txt` with the following content:
-   ```js
-   This is an Example file
-   Here is another example line
-   Third Line
-
