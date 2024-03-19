@@ -3,6 +3,7 @@
 * [DEVTOOLS](#devtools)
 * [CSS](#css)
 * [BASH](#bash)
+* [BREW](#brew)
 
 
 ## DEVTOOLS
@@ -12,6 +13,10 @@
 ```$('div')``` - querySelector
 
 ```$_``` - Result of last operation
+
+## BREW
+```brew list --cask```
+```brew list --formula```
 
 ## CSS
 1. **No Scroll bar**
