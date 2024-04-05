@@ -60,12 +60,22 @@
        overflow:hidden;
     }
     ```
-
-6. **fade gradient**
-   ```css
-   background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1));
-   ```
-
+ 6. **Fade Gradients**
+    ```css
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1));
+    ```
+ 7. **Grid background**
+    ```css
+    background-size: 40px 40px;
+    background-image:
+       linear-gradient(to right, grey 1px, transparent 1px),
+       linear-gradient(to bottom, grey 1px, transparent 1px);
+    ```
+ 8. **Dotted background**
+    ```css
+    background-size: 40px 40px;
+    background-image: radial-gradient(circle, #000000 1px, rgba(0, 0, 0, 0) 1px);
+    ```
 
 Note:
 - apply overflow to flex-item might shrink it.
