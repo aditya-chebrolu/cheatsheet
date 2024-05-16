@@ -1,10 +1,11 @@
 # cheatsheet
 
 * [DEVTOOLS](#devtools)
-* [CSS](https://github.com/aditya-chebrolu/cs-css?tab=readme-ov-file#css-cheatsheet)
+* [CSS](https://github.com/aditya-chebrolu/cs-css/blob/master/README.md)
 * [BASH](#bash)
 * [BREW](#brew)
 * [JAVA](https://github.com/aditya-chebrolu/cs-java/blob/master/README.md)
+* [MONGO](https://github.com/aditya-chebrolu/cs-mongo)
 
 
 ## DEVTOOLS
